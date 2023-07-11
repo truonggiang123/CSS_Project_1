@@ -540,6 +540,61 @@ a{
     bottom: 0px;
     right: 221px;
   }
+ 
+  /* ============= foodter ==============  */
+
+  footer .row{
+    margin-top: 55px;
+    padding-top: 55px;
+    padding-bottom: 58px;
+  }
+
+  footer .row{
+    display: flex;
+    gap: 188px;
+  }
+
+  footer h3{
+    color: #1C1C1D;
+    font-family: Lato;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 42px;
+  }
+
+  footer .column ul li a, footer .column  p{
+    color: #7A7A7E;
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-top: 18px;
+    display: inline-block;
+    white-space: nowrap;
+  }
+
+  footer .column  p{
+    white-space: normal;
+  }
+
+  footer .column  .social-group{
+    width: 117px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  footer .column  .social-group a{
+    width: 28px;
+    height: 28px;
+    background: #F9F9F9;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  footer .column  .social-group a:hover{
+    background: #cccbcb;
+  }
 
 
 
