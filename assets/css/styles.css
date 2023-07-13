@@ -595,6 +595,21 @@ a{
   footer .column  .social-group a:hover{
     background: #cccbcb;
   }
+  footer .row .coppy-right{
+    color: #C2C2C2;
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
+  footer  .info-contact{
+    align-items: center;
+    justify-content: space-between;
+  }
+  footer .row .copy-right{
+    display: block;
+    color: #C2C2C2;
+    font-size: 1.4rem;
+    font-weight: 400;
+  }
 
 
 
